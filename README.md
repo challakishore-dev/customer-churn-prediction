@@ -142,7 +142,9 @@ Why Random Forest?
 
 # dashboard
 <img width="1920" height="1080" alt="Screenshot (166)" src="https://github.com/user-attachments/assets/1eed8926-55b2-49d6-9727-cc49dd07262a" />
+
 # predict
+
 # High Risk customer
 
 <img width="1920" height="1080" alt="Screenshot (171)" src="https://github.com/user-attachments/assets/b79e172e-b543-4e29-9d9e-52010dd42d98" />
